@@ -1,0 +1,2 @@
+preprocessing=docker.synapse.org/syn
+training=docker.synapse.org/syn

@@ -1,0 +1,2 @@
+model_state=syn
+inference=docker.synapse.org/syn

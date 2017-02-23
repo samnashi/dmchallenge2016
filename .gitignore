@@ -1,0 +1,10 @@
+*.dcm
+*.h5
+*.pickle
+*.gz
+*.log
+*.zip
+*.arch.json
+*.pyc
+*.xml
+predictions.tsv

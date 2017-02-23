@@ -1,0 +1,14 @@
+#!/bin/sh
+
+synapseid=
+dockerurl="docker.synapse.org"
+
+preprocessname=
+preprocessimage="${dockerurl}/${synapseid}/${preprocessname}"
+
+trainname=
+trainimage="${dockerurl}/${synapseid}/${trainname}"
+
+scorename=
+scoreimage="${dockerurl}/${synapseid}/${scorename}"
+
